@@ -1,0 +1,18 @@
+< !DOCTYPE html>
+< html lang= pt-BR>
+<head>
+< meta charset - UFT-8>
+< meta name = viewport content= width= device - width, initial- scale= 1,0>
+<title> CARECA MOVÉIS <title>
+<style>
+ body {
+font-family: Arial, sons-serif;
+margin: 0
+podding: 0
+}
+header {
+background-color: #4caf50
+color: white
+podding: 20px;
+text-align :center
+}
